@@ -14,8 +14,8 @@ Este dashboard nos invita a valorar qué tan agradecidos o no deberiamos estar p
 
 | Vista | Imagen |
 |-------|--------|
-| Narrativa Global | ![Global Narrative](pibx/10yoh_capture1.JPG) |
-| Factores influyentes | ![Explorative Variables](pibx/10yoh_capture2.JPG) |
+| Narrativa Global | ![Global Narrative](pbix/10yoh_capture1.JPG) |
+| Factores influyentes | ![Explorative Variables](pbix/10yoh_capture2.JPG) |
 
 ### Resultados clave:
 ##### Al ser un Data set tan grande, incluye 10 data sets diferentes uno por año, con informacion de mas de 150 paises cada uno, se han logrado diferentes hallazgos:
