@@ -10,7 +10,7 @@ Felicidad mundial 2015–2024
 Ademas de cuestionarse cómo evoluciona nuestra satisfacción a nivel global, puedes explorar diferentes sentimientos al rededor del mundo, como por ejemplo el sentimiento de libertad para tomar decisiones, o que tan apoyados por parte de amigos y familiares, se sienten en diferentes paises. 
 Este dashboard nos invita a valorar qué tan agradecidos o no deberiamos estar por nuestra vida y qué mejoras podemos hacer para sentirnos más felices.
 
-## 🖼️ Vista del Dashboard
+## 🖼️ Vista Previa:
 
 | Vista | Imagen |
 |-------|--------|
