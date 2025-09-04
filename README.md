@@ -38,7 +38,9 @@ entra a https://www.worldhappiness.report/ si necesitas ayuda para comprender ca
 ó directamente en el archivo da clic en el icono de información. 
 
 ## 👉 Live report: 
-Si no quieres descargar el archivo, entra en https://app.powerbi.com/links/sGV_4BEHFL?ctid=53e0f663-6802-4124-8200-fd801cb6141c&pbi_source=linkShare para visualizar, jugar con los slicers y obtener insights
+Si no quieres descargar el archivo, entra en 
+https://app.powerbi.com/view?r=eyJrIjoiNWQxNjg4NjEtZjJlZS00MjZkLTkwNzUtMGJkMTJmNDkzYjQ4IiwidCI6IjUzZTBmNjYzLTY4MDItNDEyNC04MjAwLWZkODAxY2I2MTQxYyJ9
+para visualizar, jugar con los slicers y obtener insights
 
 ## Cómo está construido
 ### Limpieza de datos:
@@ -60,3 +62,7 @@ Tal vez sea interezante predecir la felicidad por pais para el año 2025 o 2030,
 ## Gracias!
 de ante mano gracias por leer este read me, por visualizar mi proyecto y por toda la data recabada en un tema tan interezante como lo es la felicidad en el mundo.
 Espero que nuestro promedio actual global (5.6) mejore y no estemos "reprovados" en felicidad a nivel planeta.
+
+
+### last.. vale la pena intentarolo..
+<iframe title="10 Years of Happiness" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWQxNjg4NjEtZjJlZS00MjZkLTkwNzUtMGJkMTJmNDkzYjQ4IiwidCI6IjUzZTBmNjYzLTY4MDItNDEyNC04MjAwLWZkODAxY2I2MTQxYyJ9" frameborder="0" allowFullScreen="true"></iframe>
